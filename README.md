@@ -16,6 +16,6 @@ Makefile incoming.
 
 ## Table of Contents (for the repo, not this readme)
 
-- Counter
-- TermSize
+- [Counter](Counter/)
+- [TermSize](TermSize/)
 
