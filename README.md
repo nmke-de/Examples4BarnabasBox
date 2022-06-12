@@ -12,7 +12,9 @@ Check [here](https://github.com/nmke-de/BarnabasBox/README.md#Dependencies)!
 
 ## Build
 
-Makefile incoming.
+Type `make`. Edit Makefiles to fit your needs.
+
+Alternatively, copy the commands in the Makefiles.
 
 ## Table of Contents (for the repo, not this readme)
 
