@@ -8,7 +8,7 @@ BarnabasBox may be simple to use, but only, once you know how. This repository g
 
 ## Dependencies
 
-Check [here](https://github.com/nmke-de/BarnabasBox/README.md#Dependencies)!
+Check [here](https://github.com/nmke-de/BarnabasBox#Dependencies)!
 
 ## Build
 
