@@ -19,5 +19,6 @@ Alternatively, copy the commands in the Makefiles.
 ## Table of Contents (for the repo, not this readme)
 
 - [Counter](Counter/)
+- [Hello](Hello/)
 - [TermSize](TermSize/)
 
