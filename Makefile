@@ -1,12 +1,14 @@
 
 
-examples: BarnabasBox Counter TermSize
+examples: BarnabasBox Counter TermSize Hello
 
 BarnabasBox: BarnabasBox/libbarnabas.a
 
 Counter: Counter/main
 
 TermSize: TermSize/main
+
+Hello: Hello/main
 
 BarnabasBox/libbarnabas.a:
 	make -C BarnabasBox -f Makefile
@@ -16,6 +18,9 @@ Counter/main: Counter/main.c
 
 TermSize/main: TermSize/main.c
 	make -C TermSize -f Makefile
+
+TermSize/main: Hello/main.c
+	make -C Hello -f Makefile
 
 clean:
 	rm -f */main
